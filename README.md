@@ -1,4 +1,8 @@
 # GoPiGo
+All Hardware can be purchased by following MIT's Purchase Guide Here
+
+https://www.hackster.io/peejster/rover-c42139?ref=platform&ref_id=425_trending___&offset=39
+
 
 The GoPiGo is a delightful and complete robot for the Raspberry Pi that turns your Pi into a fully operating robot.  GoPiGo is a mobile robotic platform for the Raspberry Pi developed by [Dexter Industries.](http://www.dexterindustries.com/GoPiGo)  
 
